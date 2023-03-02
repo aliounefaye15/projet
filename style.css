@@ -1,0 +1,162 @@
+.bi {
+    margin-left: 25%;
+}
+ 
+.button{
+    font-size: 15px;
+    height: 50%;
+    width: 5%;
+    border-radius: 10px;
+    cursor: pointer;
+}
+input{
+    height: 100%;
+    width: 85%;
+    padding-bottom: 5px;
+}
+
+.phone{
+    margin-left: 19%;
+}
+.fax{
+    margin-left: 24%;
+}
+.courrier{
+    margin-left: 20%;
+}
+.fax1{
+    margin-left: 12%;
+}
+.phone1{
+    margin-left: 12%;
+}
+
+@media screen and (min-width: 1440px){
+    .icon {
+      margin-left: 0;  
+       
+    }
+}
+
+@media screen and (min-width: 320px){
+    .icon {
+      margin-left: 18%;  
+       
+    }
+}
+
+@media screen and (min-width: 320px){
+    .form {
+       margin-left: 35%;
+    }
+    .button {
+        margin-left: 35%;
+     }
+     iframe{
+         width: 260px;
+     }
+     .title2{
+        margin-left: 50%;
+     }
+     
+    .dispo{
+        margin-left: 50%;
+     }
+     .title3{
+        margin-left: 2%;
+     }
+     
+    .heure{
+        margin-left: 2%;
+     }
+}
+
+
+@media screen and (min-width: 375px){
+    .form {
+       margin-left: 48%;
+    }
+    iframe{
+        width: 270px;
+    }
+    .button {
+        margin-left: 48%;
+    }
+    .title2{
+        margin-left: 48%;
+     }
+     
+    .dispo{
+        margin-left: 48%;
+     }
+     .title3{
+        margin-left: 3%;
+     }
+     
+    .heure{
+        margin-left: 3%;
+     }
+}
+
+
+@media screen and (min-width: 1024px){
+    .form {
+       margin-left: 0%;
+    }
+    iframe{
+        width: 380px;
+    }
+    .button {
+        margin-left: 0%;
+    }
+    .title2{
+        margin-left: 5%;
+     }
+     
+    .dispo{
+        margin-left: 5%;
+     }
+    .title3{
+        margin-left: 2%;
+     }
+     
+    .heure{
+        margin-left: 2%;
+     }
+     .icon {
+        margin-left: 0%;   
+    }
+}
+
+
+@media screen and (min-width: 425px){
+    .title3{
+        margin-left: 4%;
+     }
+     
+    .heure{
+        margin-left: 4%;
+     }
+}
+
+@media screen and (min-width: 768px){
+    .form {
+        margin-left: 0%;
+     }
+     iframe{
+         width: 290px;
+     }
+     .button {
+         margin-left: 0%;
+     }
+     .title2{
+         margin-left: 5%;
+      }
+      
+     .dispo{
+         margin-left: 5%;
+      }
+      .icon {
+         margin-left: 0%;   
+     }
+}
